@@ -1,0 +1,7 @@
+name: OfflinePay
+main: me.hybridplague.offlinepay.OfflinePay
+version: 1.0
+api-version: 1.13
+
+commands:
+  offlinepay:
